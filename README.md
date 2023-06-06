@@ -20,3 +20,9 @@ We've created a prototype of a game that will teach intuition on what is best fo
 
 <img width="610" alt="prototype" src="https://github.com/kinga-marszalkowska/hack4change2023/assets/64398325/0c253831-46af-40dc-9cb8-43aa1bef4036">
 
+
+# Trailer
+
+https://github.com/kinga-marszalkowska/hack4change2023/assets/64398325/2c35991e-6f17-496b-bedd-99f9c6fefd29
+
+
